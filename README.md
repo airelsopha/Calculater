@@ -1,2 +1,2 @@
-# Calculater
+# Calculator
 Javescript Project
